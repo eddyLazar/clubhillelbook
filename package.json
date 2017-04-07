@@ -1,0 +1,16 @@
+{
+  "name": "clubhillel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-plugin-anchorjs": "^1.1.1",
+    "gitbook-plugin-toggle-chapters": "0.0.3",
+    "gitbook-plugin-toggle-headers": "^0.1.0"
+  }
+}

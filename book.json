@@ -1,0 +1,6 @@
+{
+  "title": "Club Hillel",
+  "plugins": ["anchorjs"],
+  "pluginsConfig": {
+  }
+}
